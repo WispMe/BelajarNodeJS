@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faizfak/Belajar-Node-JS.git"
+    "url": "git+https://github.com/faizfak/BelajarNodeJS.git"
   },
   "keywords": [
     "aptrg"
@@ -16,7 +16,14 @@
   "author": "Faiz Adil Khatami",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/faizfak/Belajar-Node-JS/issues"
+    "url": "https://github.com/faizfak/BelajarNodeJS/issues"
   },
-  "homepage": "https://github.com/faizfak/Belajar-Node-JS#readme"
+  "homepage": "https://github.com/faizfak/BelajarNodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "port": "^0.8.1",
+    "serial": "0.0.9",
+    "serialport": "^6.0.5",
+    "socket.io": "^2.0.4"
+  }
 }
